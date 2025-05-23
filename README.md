@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @muslimpari
-- 👀 I’m interested in oop concepts 
-- 🌱 I’m currently learning oop and DSA
-- 💞️ I’m looking to collaborate on the topics of different programming languages 
-- 📫 How to reach me ...
-
-<!---
-muslimpari/muslimpari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @manahilaamir
+- 👀 I’m web front end developer
+- 🌱 I’m python developer, working with c# and ASp.net
+- 💞️ I’m currently learning Mobile app dev [ReactNative, Next.js, Express.js , Node.js]
+- 📫 How to reach me
+-       https://www.linkedin.com/in/manahil-aamir-875157302/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIbFOompvSJOfgS22NNgIcA%3D%3D
+- Always Focus on learning , gaining motivation , working with deep courage.
